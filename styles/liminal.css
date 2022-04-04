@@ -1,0 +1,247 @@
+.sandbox.sheet table {
+  width:-webkit-fill-available;
+}
+
+.sandbox.sheet table.table-free {
+  width:-webkit-fill-available;
+}
+
+@font-face {
+  font-family: "Somebercum";
+  src: url("./fonts/Somebercum_Sans_Serif.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Wind";
+  src: url("./fonts/wind.ttf") format("truetype");
+}
+
+h1 {
+  font-family: 'Somebercum', sans-serif;
+  color: #33a2ff;
+}
+
+h2, h3, h4 {
+  font-family: 'Wind', sans-serif;
+  color: #33a2ff;
+}
+
+h1 {
+  border-bottom: 2px solid #33a2ff;
+}
+
+h2 {
+  border-bottom: 1px solid #33a2ff;
+}
+
+a:hover {
+  text-shadow: 0 0 8px white;
+}
+
+.app {
+  color: #ffffff;
+  border-radius: 0px;
+}
+
+input[type="text"] {
+  border: 1px solid #33a2ff;
+  border-radius: 0px;
+  color: darkblue;
+}
+
+#sidebar {
+  border: 1px  #33a2ff;
+}
+
+#sidebar-tabs > .item.active {
+  box-shadow: 0 0 6px inset #33a2ff;
+}
+
+#sidebar-tabs {
+  border-bottom: 1px solid #33a2ff;
+  box-shadow: 0 0 10px #33a2ff;
+}
+
+#sidebar-tabs > .item {
+  border-radius: 0;
+}
+
+#chat-log .message .message-header .message-sender {
+  color: #33a2ff;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #33a2ff;
+  border: 1px solid #ffffff;
+}
+
+.window-app .window-content  {
+  background-image: url(images/b65e880d47e3b976134dae3cca4e130e.jpg);
+    background-position: right top;
+}
+
+.sandbox.sheet .atabs {
+  border-bottom: 2px solid #33a2ff;
+  color: #33a2ff;
+}
+
+.sandbox.sheet .panelheader {
+  background-color: #33a2ff;
+  font-family: 'Somebercum', sans-serif;
+  font-size: 13px;
+}
+
+.sandbox.sheet input.entityname[type=text] {
+  font-size: 32px;
+    font-weight: normal;
+    color: #191813;
+    font-family: "Somebercum", sans-serif;
+}
+
+.sandbox.sheet input[type=text] {
+  border: 1px solid #33a2ff;
+  border-radius: 0px;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.sandbox.sheet .input-med {
+  border: 1px solid #33a2ff;
+  border-radius: 0px;
+}
+
+.sandbox.sheet .linkable:hover {
+  color: #33a2ff;
+  font-weight: bold;
+}
+
+.sandbox.sheet th.input-med {
+  border: 0px;
+  color: white;
+}
+
+.sandbox.sheet .panelheader-t {
+  color: #33a2ff;
+  text-shadow: 0px;
+}
+
+.sandbox.sheet th {
+  background-color: #33a2ff;
+  color: white;
+}
+
+.table {
+  color: #33a2ff;
+}
+
+.label-med, .label-medlarge, .label-free, .label-small, .radio-input, .input-med {
+  color: #33a2ff;
+}
+
+.linkable:hover {
+  color: darkblue;
+  font-weight: bold;
+}
+
+a.entity-link {
+  background: #33a2ff;
+  border: 1px solid black;
+  color: white;
+}
+
+a.entity-link i {
+  color: white;
+}
+
+.ci-delete:hover {
+  text-shadow: 0 0 8px #33a2ff;
+}
+
+#chat-log .message, .roll-menu {
+  background: white;
+  border: 2px solid #33a2ff;
+  border-radius: 0;
+}
+
+.roll-flavor, .roll-conditional {
+  color: #33a2ff;
+  font-family: 'Somebercum', sans-serif;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.roll-sender-name {
+  font-family: 'Somebercum', sans-serif;
+  text-transform: uppercase;
+}
+
+.roll-user, .roll-main-button, .roll-detail-button {
+  font-family: 'Somebercum', sans-serif;
+  font-size: 12px;
+  color:black;
+  font-style: normal;
+}
+
+.roll-flexrow .roll-sender-name {
+  color: #33a2ff;
+}
+
+.roll-iscrit, .roll-result, .roll-isfumble {
+  color: black;
+}
+
+.roll-sender-image {
+  border: 1px solid #33a2ff;
+}
+
+.roll-underline {
+  border-color: darkblue;
+}
+
+button, .window-app.image-popout .form-group button {
+  background: white;
+  border: 1px solid #33a2ff;
+  border-radius: 0px;
+  color: #1C2833;
+  font-family: 'Wind', sans-serif;
+}
+
+.sidebar-tab h4, #combat #combat-round .encounters h3, #players h3, #scenes .scene h3, #compendium h3,
+.window-app .window-header .window-title {
+    color: white;
+}
+
+.sidebar-tab h2 {
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+.sidebar-tab .directory-header .header-search input,
+#chat-controls div.roll-type-select select, #chat-form textarea,
+.window-app.image-popout .form-group.title input,
+.window-app.image-popout .form-group.picker input {
+  background: white;
+}
+
+.sandbox.sheet th.input-free, .sandbox.sheet th.input-med, .sandbox.sheet th.cell-empty {
+  background: #33a2ff;
+}
+
+.sandbox.sheet .table-row {
+  border-bottom: 1px solid transparent;
+}
+
+.sandbox.sheet table.table-free {
+  background: transparent;
+}
+
+.sandbox.sheet .texteditor-large {
+  font-family: "Signika", sans-serif;
+}
+
+h4.entry-name {
+  color: black;
+}
+
+h4.entry-name a:hover {
+  text-shadow: 0 0 8px black;
+}
