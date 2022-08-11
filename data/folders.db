@@ -1,0 +1,64 @@
+{"name":"cItem","type":"Item","sort":1200000,"flags":{},"parent":null,"sorting":"a","color":"#ff0000","_id":"1X1JdV83iUS2e5UJ"}
+{"name":"Magias","type":"Item","sort":5500000,"flags":{},"parent":"yfcnyUOsYxbBO4ja","sorting":"a","color":"#fdbfbf","_id":"2A9WIgTcPydNt5EJ"}
+{"name":"Talentos y limitaciones","type":"Item","sort":4600000,"flags":{},"parent":"YEqGD81qlDMdHgXy","sorting":"a","color":"#a8ffae","_id":"2nQbQmIzbijGICjr"}
+{"_id":"5fK3jLzqHBTa3uGE","name":"Habilidades Físicas","type":"Item","sort":0,"flags":{},"parent":"YEqGD81qlDMdHgXy","sorting":"a","color":"#a8ffae"}
+{"_id":"6yAR8vSuNQhHaIA4","name":"Enfoques","type":"Item","sort":1500000,"flags":{},"parent":"1X1JdV83iUS2e5UJ","sorting":"a","color":"#ff6666"}
+{"_id":"7D9GjFE6vLThct8Y","name":"T Determinación","type":"Item","sort":4900000,"flags":{},"parent":"hDX1hHFC9CcBjMJZ","sorting":"a","color":"#fdbfbf"}
+{"_id":"7MkJojTOhjGFUco3","name":"Paneles","type":"Item","sort":200000,"flags":{},"parent":"U89MHrKbwoZ8SDPg","sorting":"a","color":"#7cfb79"}
+{"name":"M Protectora","type":"Item","sort":5900000,"flags":{},"parent":"hDX1hHFC9CcBjMJZ","sorting":"a","color":"#fdbfbf","_id":"7Yge1a72KR1HehQH"}
+{"name":"Cuerpo a cuerpo","type":"Item","sort":2200000,"flags":{},"parent":"EyHk9RJMNUqg6RY5","sorting":"a","color":"#fdb9b9","_id":"7ygXopLayYbUS4Ip"}
+{"_id":"8BWdFOANT5HngpsE","name":"Tecnología","type":"Item","sort":3500000,"flags":{},"parent":"Be3tYkq5fvlBIH7W","sorting":"a","color":"#fdb9b9"}
+{"name":"Negociar","type":"Item","sort":3400000,"flags":{},"parent":"Be3tYkq5fvlBIH7W","sorting":"a","color":"#fdb9b9","_id":"8LjSkJIJdEW2eyA2"}
+{"name":"Especialidades Sociales","type":"Item","sort":2800000,"flags":{},"parent":"1X1JdV83iUS2e5UJ","sorting":"a","color":"#ff6666","_id":"8OioKtJiPsVChzLq"}
+{"name":"Atributos","type":"Item","sort":1700000,"flags":{},"parent":"7MkJojTOhjGFUco3","sorting":"a","color":"#a8ffae","_id":"Aqwy7f0rYCIZD8QM"}
+{"name":"Especialidades Mentales","type":"Item","sort":2700000,"flags":{},"parent":"1X1JdV83iUS2e5UJ","sorting":"a","color":"#ff6666","_id":"Be3tYkq5fvlBIH7W"}
+{"name":"Arte","type":"Item","sort":2900000,"flags":{},"parent":"Be3tYkq5fvlBIH7W","sorting":"a","color":"#fdb9b9","_id":"CclfStzSWcmuRWYj"}
+{"name":"Talentos y Limitaciones","type":"Item","sort":4700000,"flags":{},"parent":"7MkJojTOhjGFUco3","sorting":"a","color":"#a8ffae","_id":"D4e1f2QYrtv7HhOH"}
+{"_id":"DLFoCgCzYM70QoEu","name":"Atletismo","type":"Item","sort":2100000,"flags":{},"parent":"EyHk9RJMNUqg6RY5","sorting":"a","color":"#fdb9b9"}
+{"_id":"DTNBlZxgQdwuBR9O","name":"M Adivinación","type":"Item","sort":5100000,"flags":{},"parent":"hDX1hHFC9CcBjMJZ","sorting":"a","color":"#fdbfbf"}
+{"name":"Alta Sociedad","type":"Item","sort":3600000,"flags":{},"parent":"8OioKtJiPsVChzLq","sorting":"a","color":"#fdb9b9","_id":"EXzoUWs2jr9SKrlM"}
+{"_id":"EyHk9RJMNUqg6RY5","name":"Especialidades Físicas","type":"Item","sort":1800000,"flags":{},"parent":"1X1JdV83iUS2e5UJ","sorting":"a","color":"#ff6666"}
+{"name":"Daño","type":"Item","sort":6300000,"flags":{},"parent":"7MkJojTOhjGFUco3","sorting":"a","color":"#a8ffae","_id":"FAvkigGQHR3DfQKP"}
+{"name":"Disparar","type":"Item","sort":2300000,"flags":{},"parent":"EyHk9RJMNUqg6RY5","sorting":"a","color":"#fdb9b9","_id":"FNSwtrItdKM7g1pj"}
+{"name":"Básicas","type":"Item","sort":1100000,"flags":{},"parent":"YEqGD81qlDMdHgXy","sorting":"a","color":"#a8ffae","_id":"FzQ1pgOeZ5CRoZHT"}
+{"_id":"H8XRHX71t2mjXZVp","name":"Habilidades","type":"Item","sort":500000,"flags":{},"parent":"7MkJojTOhjGFUco3","sorting":"a","color":"#a8ffae"}
+{"name":"Tabs","type":"Item","sort":700000,"flags":{},"parent":"U89MHrKbwoZ8SDPg","sorting":"a","color":"#7cfb79","_id":"IlhDzVZSG7Yzisag"}
+{"name":"Habilidades Sociales","type":"Item","sort":900000,"flags":{},"parent":"YEqGD81qlDMdHgXy","sorting":"a","color":"#a8ffae","_id":"JDQuhvawePhhwko9"}
+{"name":"Educación","type":"Item","sort":3100000,"flags":{},"parent":"Be3tYkq5fvlBIH7W","sorting":"a","color":"#fdb9b9","_id":"JTZTgzoGymfHJ7XG"}
+{"name":"Ciencia","type":"Item","sort":3000000,"flags":{},"parent":"Be3tYkq5fvlBIH7W","sorting":"a","color":"#fdb9b9","_id":"LM1qzMx5VHNxXUci"}
+{"name":"Atributos","type":"Item","sort":1600000,"flags":{},"parent":"YEqGD81qlDMdHgXy","sorting":"a","color":"#a8ffae","_id":"MNj9PHL6fiP6LMof"}
+{"_id":"OOaaJPOTXc8Krh5E","name":"T Resistencia","type":"Item","sort":5000000,"flags":{},"parent":"hDX1hHFC9CcBjMJZ","sorting":"a","color":"#fdbfbf"}
+{"name":"Limitaciones","type":"Item","sort":4500000,"flags":{},"parent":"1X1JdV83iUS2e5UJ","sorting":"a","color":"#ff6666","_id":"PXxzyqHqBiAhsbKZ"}
+{"name":"Básicas","type":"Item","sort":1000000,"flags":{},"parent":"7MkJojTOhjGFUco3","sorting":"a","color":"#a8ffae","_id":"R31y6WVgxAH6z5qd"}
+{"name":"Especialidades","type":"Item","sort":1900000,"flags":{},"parent":"YEqGD81qlDMdHgXy","sorting":"a","color":"#a8ffae","_id":"SVCIS855pNIJDo6J"}
+{"name":"Plantilla","type":"Item","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#08fd24","_id":"U89MHrKbwoZ8SDPg"}
+{"name":"Encanto","type":"Item","sort":4000000,"flags":{},"parent":"8OioKtJiPsVChzLq","sorting":"a","color":"#fdb9b9","_id":"VIqaYI0EfMPif2zp"}
+{"name":"Percepción","type":"Item","sort":2400000,"flags":{},"parent":"EyHk9RJMNUqg6RY5","sorting":"a","color":"#fdb9b9","_id":"XeshPNwaiw6PSzOd"}
+{"_id":"YEqGD81qlDMdHgXy","name":"Propiedades","type":"Item","sort":100000,"flags":{},"parent":"U89MHrKbwoZ8SDPg","sorting":"a","color":"#7cfb79"}
+{"_id":"YLAyUwgRB8NFf0Ko","name":"Plantillas","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#ff0000"}
+{"name":"Leyendas","type":"Item","sort":3200000,"flags":{},"parent":"Be3tYkq5fvlBIH7W","sorting":"a","color":"#fdb9b9","_id":"ZhSp3xwO398TfC4f"}
+{"name":"Empatía","type":"Item","sort":3900000,"flags":{},"parent":"8OioKtJiPsVChzLq","sorting":"a","color":"#fdb9b9","_id":"gVc9QpeGDa5KN7O8"}
+{"name":"M Glamour","type":"Item","sort":5800000,"flags":{},"parent":"hDX1hHFC9CcBjMJZ","sorting":"a","color":"#fdbfbf","_id":"gxhk1IU5zPk1SM5T"}
+{"name":"Talentos","type":"Item","sort":4400000,"flags":{},"parent":"1X1JdV83iUS2e5UJ","sorting":"a","color":"#ff6666","_id":"hDX1hHFC9CcBjMJZ"}
+{"name":"Estilos de Magia","type":"Item","sort":5200000,"flags":{},"parent":"1X1JdV83iUS2e5UJ","sorting":"a","color":"#ff6666","_id":"hoHVBVEbfEoWpy64"}
+{"name":"Sigilo","type":"Item","sort":2500000,"flags":{},"parent":"EyHk9RJMNUqg6RY5","sorting":"a","color":"#fdb9b9","_id":"htfLa6XC8k1S3OZ9"}
+{"name":"Multipaneles","type":"Item","sort":1400000,"flags":{},"parent":"7MkJojTOhjGFUco3","sorting":"a","color":"#a8ffae","_id":"i5UI5zmQTMy7NpzL"}
+{"name":"Magia","type":"Item","sort":6100000,"flags":{},"parent":"7MkJojTOhjGFUco3","sorting":"a","color":"#a8ffae","_id":"i7zGLi8xexzsM60D"}
+{"name":"Especialidades","type":"Item","sort":2000000,"flags":{},"parent":"7MkJojTOhjGFUco3","sorting":"a","color":"#a8ffae","_id":"jhzjV2HjEwYA1qf4"}
+{"name":"M Geomante","type":"Item","sort":5700000,"flags":{},"parent":"hDX1hHFC9CcBjMJZ","sorting":"a","color":"#fdbfbf","_id":"kJ0MiA06ivOzeGUh"}
+{"_id":"kU5IHlXe9Waz87lz","name":"Vehículos","type":"Item","sort":2600000,"flags":{},"parent":"EyHk9RJMNUqg6RY5","sorting":"a","color":"#fdb9b9"}
+{"name":"Nuevos Talentos","type":"Item","sort":6400000,"flags":{},"parent":"hDX1hHFC9CcBjMJZ","sorting":"a","color":"#fdbfbf","_id":"o6joPplHTtQkEMq3"}
+{"name":"M Nigromancia","type":"Item","sort":6000000,"flags":{},"parent":"hDX1hHFC9CcBjMJZ","sorting":"a","color":"#fdbfbf","_id":"oIvpiyH4ZMvopeBy"}
+{"_id":"oLWWVkpJiVFMnhN5","name":"M Bendiciones y maldiciones","type":"Item","sort":5300000,"flags":{},"parent":"hDX1hHFC9CcBjMJZ","sorting":"a","color":"#fdbfbf"}
+{"name":"Supervivencia","type":"Item","sort":4300000,"flags":{},"parent":"EyHk9RJMNUqg6RY5","sorting":"a","color":"#fdb9b9","_id":"pxzNOxlkh91B3gRo"}
+{"name":"Medicina","type":"Item","sort":3300000,"flags":{},"parent":"Be3tYkq5fvlBIH7W","sorting":"a","color":"#fdb9b9","_id":"toyXbWsGlZuJwVeK"}
+{"name":"Daño","type":"Item","sort":6200000,"flags":{},"parent":"YEqGD81qlDMdHgXy","sorting":"a","color":"#a8ffae","_id":"uFJDnYXajCdrbMn9"}
+{"_id":"uOMI12DHfV6MrwtM","name":"T Excepcionales","type":"Item","sort":4800000,"flags":{},"parent":"hDX1hHFC9CcBjMJZ","sorting":"a","color":"#fdbfbf"}
+{"name":"Convicción","type":"Item","sort":3800000,"flags":{},"parent":"8OioKtJiPsVChzLq","sorting":"a","color":"#fdb9b9","_id":"v2D7x7xQU2XLb4ft"}
+{"name":"Habilidades Mentales","type":"Item","sort":800000,"flags":{},"parent":"YEqGD81qlDMdHgXy","sorting":"a","color":"#a8ffae","_id":"v6HHnwZCygLhEvtL"}
+{"name":"Callejeo","type":"Item","sort":3700000,"flags":{},"parent":"8OioKtJiPsVChzLq","sorting":"a","color":"#fdb9b9","_id":"wTZxCGABawO8rkia"}
+{"name":"Retórica","type":"Item","sort":4200000,"flags":{},"parent":"8OioKtJiPsVChzLq","sorting":"a","color":"#fdb9b9","_id":"xC4F6RfsPVxev8UY"}
+{"name":"Provocar","type":"Item","sort":4100000,"flags":{},"parent":"8OioKtJiPsVChzLq","sorting":"a","color":"#fdb9b9","_id":"xIGKIA23ZNqd1gF0"}
+{"name":"Magias","type":"Item","sort":5400000,"flags":{},"parent":"YEqGD81qlDMdHgXy","sorting":"a","color":"#a8ffae","_id":"xKMTV4cynPx5eP2J"}
+{"name":"Grupo","type":"Item","sort":1300000,"flags":{},"parent":"1X1JdV83iUS2e5UJ","sorting":"a","color":"#ff6666","_id":"yfcnyUOsYxbBO4ja"}
+{"_id":"ziSEBfhoHLq1GCIA","name":"M Climacista","type":"Item","sort":5600000,"flags":{},"parent":"hDX1hHFC9CcBjMJZ","sorting":"a","color":"#fdbfbf"}
