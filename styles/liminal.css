@@ -7,24 +7,15 @@
 }
 
 @font-face {
-  font-family: "Somebercum";
-  src: url("./fonts/Somebercum_Sans_Serif.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: "Wind";
-  src: url("./fonts/wind.ttf") format("truetype");
+  font-family: "Mason";
+  src: url("./fonts/Mason.ttf") format("truetype");
 }
 
 h1 {
-  font-family: 'Somebercum', sans-serif;
+  font-family: 'Mason', sans-serif;
   color: #33a2ff;
 }
 
-h2, h3, h4 {
-  font-family: 'Wind', sans-serif;
-  color: #33a2ff;
-}
 
 h1 {
   border-bottom: 2px solid #33a2ff;
@@ -76,8 +67,10 @@ input[type="text"] {
 }
 
 .window-app .window-content  {
-  background-image: url(images/b65e880d47e3b976134dae3cca4e130e.jpg);
-    background-position: right top;
+  background-image: url(images/img52.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .sandbox.sheet .atabs {
@@ -87,15 +80,15 @@ input[type="text"] {
 
 .sandbox.sheet .panelheader {
   background-color: #33a2ff;
-  font-family: 'Somebercum', sans-serif;
-  font-size: 13px;
+  font-family: 'Mason', sans-serif;
+  font-size: 15px;
 }
 
 .sandbox.sheet input.entityname[type=text] {
   font-size: 32px;
     font-weight: normal;
     color: #191813;
-    font-family: "Somebercum", sans-serif;
+    font-family: "Mason", sans-serif;
 }
 
 .sandbox.sheet input[type=text] {
@@ -164,19 +157,19 @@ a.entity-link i {
 
 .roll-flavor, .roll-conditional {
   color: #33a2ff;
-  font-family: 'Somebercum', sans-serif;
+  font-family: 'Mason', sans-serif;
   font-style: normal;
   font-size: 16px;
 }
 
 .roll-sender-name {
-  font-family: 'Somebercum', sans-serif;
+  font-family: 'Mason', sans-serif;
   text-transform: uppercase;
 }
 
 .roll-user, .roll-main-button, .roll-detail-button {
-  font-family: 'Somebercum', sans-serif;
-  font-size: 12px;
+  font-family: 'Mason', sans-serif;
+  font-size: 14px;
   color:black;
   font-style: normal;
 }
@@ -202,7 +195,6 @@ button, .window-app.image-popout .form-group button {
   border: 1px solid #33a2ff;
   border-radius: 0px;
   color: #1C2833;
-  font-family: 'Wind', sans-serif;
 }
 
 .sidebar-tab h4, #combat #combat-round .encounters h3, #players h3, #scenes .scene h3, #compendium h3,
@@ -244,4 +236,15 @@ h4.entry-name {
 
 h4.entry-name a:hover {
   text-shadow: 0 0 8px black;
+}
+
+.dc-input {
+  background-color: white;
+  color: #33a2ff;
+  font-family: 'Mason', sans-serif;
+}
+
+.dc-header {
+  font-family: 'Mason', sans-serif;
+  border-bottom: 2px solid #33a2ff;
 }
