@@ -1,28 +1,18 @@
 {
-  "name": "liminal",
   "title": "Liminal",
-  "description": "",
-  "author": "Ellyjah, WallaceMcGregor",
-  "authors": [],
   "url": "https://github.com/WallaceMcGregor/liminal",
-  "flags": {},
   "version": "1.2",
-  "minimumCoreVersion": "0.0.0",
-  "compatibleCoreVersion": "1.0.0",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
-  "packs": [],
   "system": "sandbox",
-  "dependencies": [],
-  "socket": false,
   "download": "https://github.com/WallaceMcGregor/liminal/archive/refs/heads/main.zip",
-  "protected": false,
   "background": "worlds/liminal/scenes/Fondo%20Liminal.jpg",
-  "coreVersion": "9.269",
-  "nextSession": null,
+  "coreVersion": "11.315",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.13.4"
+  "systemVersion": "0.14.4.1",
+  "id": "liminal",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "lastPlayed": "Wed Jan 17 2024 07:22:01 GMT+0000 (Coordinated Universal Time)"
 }
